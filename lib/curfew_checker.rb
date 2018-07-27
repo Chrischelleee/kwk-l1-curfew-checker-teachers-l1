@@ -25,3 +25,6 @@ def complex_curfew_checker(time)
   end 
 end
 
+def deluxe_curfew_checker(time)
+  
+end
