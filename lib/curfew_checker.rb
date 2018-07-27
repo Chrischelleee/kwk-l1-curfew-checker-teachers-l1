@@ -34,7 +34,7 @@ def deluxe_curfew_checker(time)
     curfew = 11
     time_left = curfew - time
     
-    puts "You have #{time_left} hour(s) left to keep having fun!"
+   "You have #{time_left} hour(s) left to keep having fun!"
   end
 end
 
