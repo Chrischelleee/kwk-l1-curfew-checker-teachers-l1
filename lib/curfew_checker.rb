@@ -11,3 +11,6 @@ def curfew_checker(time)
     "Keep having fun!"
   end
 end
+
+def complex_curfew_checker(time)
+end
