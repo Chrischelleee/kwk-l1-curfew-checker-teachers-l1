@@ -37,3 +37,6 @@ def deluxe_curfew_checker(time)
     "You have #{time_left} hour(s) left to keep having fun!"
   end
 end
+
+
+deluxe_curfew_checker(9)
