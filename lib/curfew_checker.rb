@@ -39,4 +39,4 @@ def deluxe_curfew_checker(time)
 end
 
 
-deluxe_curfew_checker(9)
+deluxe_curfew_checker(12)
